@@ -12,6 +12,9 @@ This repo is an index showing where the most active and useful repo's are:
 2. Classes: https://github.com/kode2go/python-classes/wiki/1.-Introduction-To-Classes
 3. APIs: https://github.com/kode2go/api2go
 
+## Microservices
+1. https://github.com/kode2go/flask_fast_api/blob/main/README.md
+
 ## Java
 1. Intro: https://github.com/kode2go/js2go
 2. Scala: https://github.com/kode2go/scala_local/wiki
