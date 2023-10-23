@@ -8,9 +8,13 @@ This repo is an index showing where the most active and useful repo's are:
 3. Automate Django Build: https://github.com/kode2go/django_auto
 
 ## Python
-1. Intro: https://github.com/kode2go/python/wiki/2.-Variables-&-Data-Types#shows-all-the-built-in-functions-for-a-list
-2. Classes: https://github.com/kode2go/python-classes/wiki/1.-Introduction-To-Classes
-3. APIs: https://github.com/kode2go/api2go
+1. Intro:
+   - https://github.com/kode2go/python/wiki/2.-Variables-&-Data-Types#shows-all-the-built-in-functions-for-a-list
+   - https://kode2go.github.io/python2go/
+3. Classes: https://github.com/kode2go/python-classes/wiki/1.-Introduction-To-Classes
+4. APIs: https://github.com/kode2go/api2go
+5. DataScience: https://kode2go.github.io/datasci2go.github.io/index
+   
 
 ## Docker 
 1. https://github.com/kode2go/docker_proj
